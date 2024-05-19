@@ -1,1 +1,1 @@
-A e commerce website "Bharatkala" based on the playlist 
+Bharatkala is an e commerce platform for selling indigenous products of India
